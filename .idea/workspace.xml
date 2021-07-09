@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bdfaee24-6df7-4563-9f62-d330fe17df63" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnotherClass.js" beforeDir="false" afterPath="$PROJECT_DIR$/AnotherClass.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +32,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager" selected="Node.js.AnotherClass.js">
@@ -69,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625806030926</updated>
       <workItem from="1625806038539" duration="421000" />
-      <workItem from="1625806524901" duration="432000" />
+      <workItem from="1625806524901" duration="974000" />
     </task>
     <servers />
   </component>
